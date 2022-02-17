@@ -6,7 +6,7 @@ hello git
 hello git
 hello git
 hello git
-hello git
+hello git hot-test
 hello git
 hello git zzz
 hello git zzzzzzzzzzzzzzzzz
